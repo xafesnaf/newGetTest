@@ -1,0 +1,191 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/xaf/Desktop/curs que em va donar el ruben/Complete Python Bootcamp Go from zero to hero in Python 3/1. Course Overview/1. Course Introduction.vtt",
+		"/Users/xaf/Desktop/curs que em va donar el ruben/Complete Python Bootcamp Go from zero to hero in Python 3/7. Milestone Project - 1/1. First Python Milestone Project Overview.vtt",
+		"/Users/xaf/Desktop/prog_datasci_8_vis_entregaR.ipynb",
+		"/Users/xaf/Desktop/Python/PECS/pec7/prog_datasci_7_analisis_entregar.ipynb",
+		"/Users/xaf/Desktop/Python/PECS/pec8/prog_datasci_8_vis_entregaR.ipynb",
+		"/Users/xaf/Desktop/Python/PECS/pec8/prog_datasci_7_analisis_entregar.ipynb",
+		"/Users/xaf/Desktop/Python/PECS/pec8/Ricci_xricci_PEC8___Visualizacion_de_datos_en_Python_16-06-2019_18_37_43.tgz",
+		"/Users/xaf/Desktop/Python/PECS/pec3/prog_datasci_3_apython_entrega.ipynb",
+		"/Users/xaf/Desktop/Python/PECS/pec2/prog_datasci_2_python_entrega2.ipynb",
+		"/Users/xaf/Desktop/Python/PECS/pec4/prog_datasci_4_scilib_entrega.ipynb",
+		"/Users/xaf/Desktop/Python/PECS/pec4/prog_datasci_5_api_entregar-final.ipynb",
+		"/Users/xaf/Downloads/prog_datasci_7_analisis_entregar.ipynb",
+		"/Users/xaf/Downloads/prog_datasci_7_analisis_entrega.ipynb",
+		"/Users/xaf/Downloads/prog_datasci_5_api_entrega-Copy0.ipynb",
+		"/Users/xaf/Downloads/prog_datasci_5_api.ipynb",
+		"/Users/xaf/Desktop/prog_datasci_5_api_entrega-Copy0.ipynb",
+		"/Users/xaf/Downloads/auto.dta",
+		"/Users/xaf/Desktop/Mineria de datos/pecs/pec 2/lastfm.csv",
+		"/Users/xaf/Desktop/Mineria de datos/pecs/pec 2/car.names",
+		"/Users/xaf/Desktop/Mineria de datos/pecs/pec 2/car.data",
+		"/Users/xaf/Downloads/car.names",
+		"/Users/xaf/Downloads/prog_datasci_4_scilib_entrega.ipynb",
+		"/Users/xaf/Desktop/Python/PECS/prog_datasci_2_python_entrega2.ipynb",
+		"/Users/xaf/Desktop/prog_datasci_3_apython_entrega.ipynb",
+		"/Users/xaf/Downloads/prog_datasci_2-master/prog_datasci_2_python.ipynb",
+		"/Users/xaf/Downloads/prog_datasci_2_python_entrega.ipynb",
+		"/Users/xaf/Desktop/Python/prog_datasci_2_python_entrega2.ipynb"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
